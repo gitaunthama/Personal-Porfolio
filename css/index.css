@@ -1,0 +1,61 @@
+header {
+    padding: 20px;
+    text-align:right;
+    color:saddlebrown; ;
+    position: relative;
+    border-color: 4px lightsalmon ;
+    font-size: 30px;
+    
+  } 
+
+  nav {
+    background-color:saddlebrown;
+    height: 50px;
+    text-align: center;
+    color: mistyrose;
+    font-size: 30px;
+  } 
+  
+  
+  body{
+     background-image: url(/assets/images/_.jpeg);
+     font-size: 25px;
+     background-attachment: fixed;
+     
+  }   
+                       
+footer {
+    text-align: center;
+    color: saddlebrown ;
+    font-size: 25px;
+  }
+  
+  .heading {
+    width:600px;
+    height:300px;
+    text-align: center;
+    position: sticky;
+    margin-left: 1000px;
+    background-color:mistyrose;
+  }
+h2 {
+  font-size: 30px;
+  text-decoration: double underline;
+  color:saddlebrown;
+}
+h3 {
+  font-size: 30px;
+  text-decoration: double underline;
+  color:saddlebrown;
+}
+h4 {
+  font-size: 30px;
+  text-decoration: double underline;
+  color:saddlebrown;
+}
+footer {
+  background-color: mistyrose;
+  color:saddlebrown;
+  font-size: 20px;
+  height: 30px;
+}
